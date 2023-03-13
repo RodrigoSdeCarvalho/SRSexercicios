@@ -1,4 +1,4 @@
--- Testado no SQlite. Em 
+-- Testado no SQlite. Em https://sqliteonline.com/
 
 -- O CPF é a chave primária da tabela Pessoa, pois não pode haver duas pessoas com o mesmo CPF.
 
